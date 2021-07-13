@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on johndoe</title>
-    <link>http://www.example.com/tags/</link>
+    <link>https://robertschoemann.github.io/profile/tags/</link>
     <description>Recent content in Tags on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://robertschoemann.github.io/profile/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>http://www.example.com/tags/css/</link>
+      <link>https://robertschoemann.github.io/profile/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/css/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://www.example.com/tags/html/</link>
+      <link>https://robertschoemann.github.io/profile/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/html/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://www.example.com/tags/markdown/</link>
+      <link>https://robertschoemann.github.io/profile/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/markdown/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://www.example.com/tags/privacy/</link>
+      <link>https://robertschoemann.github.io/profile/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/privacy/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://www.example.com/tags/shortcodes/</link>
+      <link>https://robertschoemann.github.io/profile/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/shortcodes/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://www.example.com/tags/text/</link>
+      <link>https://robertschoemann.github.io/profile/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/text/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://www.example.com/tags/emoji/</link>
+      <link>https://robertschoemann.github.io/profile/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/emoji/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://www.example.com/tags/development/</link>
+      <link>https://robertschoemann.github.io/profile/tags/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/development/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://www.example.com/tags/hugo/</link>
+      <link>https://robertschoemann.github.io/profile/tags/hugo/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/hugo/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://www.example.com/tags/themes/</link>
+      <link>https://robertschoemann.github.io/profile/tags/themes/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/themes/</guid>
+      <guid>https://robertschoemann.github.io/profile/tags/themes/</guid>
       <description></description>
     </item>
     
